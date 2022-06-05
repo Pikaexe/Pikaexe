@@ -1,0 +1,3 @@
+- 👋 Hi, it's Pika,
+- ❕ I am a French dev,
+- 💻 I code in html, css (and sometimes in js)
