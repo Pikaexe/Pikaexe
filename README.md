@@ -1,1 +1,1 @@
-Developpeur html, css, bulma
+Developpeur html, css
